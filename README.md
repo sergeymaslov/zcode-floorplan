@@ -32,7 +32,7 @@ Codex installation needed.
 1. Clone this repository (or download and unpack it):
 
    ```sh
-   git clone https://github.com/<you>/zcode-floorplan.git
+   git clone https://github.com/sergeymaslov/zcode-floorplan.git
    ```
 
 2. In ZCode, open **Plugin Marketplace → Add → Add Plugin Marketplace** and paste the path to the

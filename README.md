@@ -1,5 +1,7 @@
 # Floorplan for ZCode
 
+🇬🇧 English · [🇷🇺 Русский](README.ru.md)
+
 An interactive, plain-English map of your codebase — drawn by [ZCode](https://z.ai) as a single
 self-contained `floorplan/index.html` you can open in any browser.
 

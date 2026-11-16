@@ -113,5 +113,5 @@ Upstream README, docs and the security analysis that shaped this packaging live 
 
 ## License
 
-MIT — © Hayden Smith for the original Floorplan, © the ZCode packaging authors for the
-adaptations. See [LICENSE](LICENSE) and [floorplan/LICENSE](floorplan/LICENSE).
+MIT. The original Floorplan is © Hayden Smith; the ZCode adaptation is © Sergey Maslov
+(@sergeymaslov). Full texts: [LICENSE](LICENSE) and [floorplan/LICENSE](floorplan/LICENSE).

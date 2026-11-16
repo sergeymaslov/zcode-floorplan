@@ -114,5 +114,5 @@ README, документация и разбор безопасности апс
 
 ## Лицензия
 
-MIT — © Hayden Smith за оригинальный Floorplan, © авторы упаковки для ZCode за адаптации. См.
-[LICENSE](LICENSE) и [floorplan/LICENSE](floorplan/LICENSE).
+MIT. Оригинальный Floorplan — © Hayden Smith; адаптация для ZCode — © Sergey Maslov
+(@sergeymaslov). Полные тексты: [LICENSE](LICENSE) и [floorplan/LICENSE](floorplan/LICENSE).

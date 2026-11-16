@@ -1,0 +1,18 @@
+{
+  "name": "floorplan",
+  "version": "0.2.0",
+  "description": "Draw an interactive plain-English floorplan of a codebase (or a blueprint from a PRD): every subsystem, file and HTTP route named and described, with a health check, screens, guided flows and a local map server. Ask on the map answers through the ZCode CLI's read-only plan mode. Saved as a self-contained floorplan/index.html.",
+  "author": {
+    "name": "Hayden Smith (floorplan, MIT), ZCode packaging by Sergey"
+  },
+  "license": "MIT",
+  "keywords": [
+    "codebase",
+    "architecture",
+    "map",
+    "visualization",
+    "onboarding",
+    "documentation"
+  ],
+  "skills": "./skills"
+}

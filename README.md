@@ -42,6 +42,17 @@ Codex installation needed.
 4. Requirements: Node 18+ on your `PATH` (the skill's scripts are plain Node with zero npm
    dependencies), and ZCode itself for the Ask bar.
 
+Notes:
+
+- After installing, start a new task and either pick the **Floorplan** skill in the composer
+  picker or just ask for a floorplan (see below). The installed plugin is managed under
+  **Settings → Plugins**.
+- If you already have a plugin named `floorplan` from another marketplace (for example a dev
+  copy), disable or remove that one first — same plugin id, two sources is confusing.
+- To update later: refresh the marketplace (its gear button → **Refresh**), then click
+  **Update** on the plugin in **Personal**. The installed copy does not follow the repo
+  automatically.
+
 ## Use it
 
 Open a project in ZCode and ask:
